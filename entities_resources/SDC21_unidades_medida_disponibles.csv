@@ -1,0 +1,52 @@
+table,metric,ES,EN
+hog,SHOGARES,Número de Hogares,No. of Households
+hog,MEDIA_SSUPERFICIE_OCU,Superficie media por ocupante,Average floor space by occupant
+hog,STAM_HOG,Tamaño medio del hogar,Average size of household
+nuc,SNUCLEOS,Número de núcleos,No. of nucleus
+nuc,MEDIA_SHIJOS_NUCLEO,Número medio de hijos por núcleo familiar,Average no. of children per family nucleus
+per.estu,SPERSONAS,Personas,People
+per.estu,MEDIA_SEDAD,Edad media,Average age
+per.estu,PCT_SMENORES_16,Porcentaje de personas de menos de 16 años,Percentage of people under 16 years
+per.estu,PCT_SPERSONAS_16_64,Porcentaje de personas entre 16 y 64 años,Percentage of people between the ages of 16 and 64
+per.estu,PCT_SMAYORES_64,Porcentaje de personas de más de 64 años,Percentage of people over 64 years
+per.estu,PCT_SEXTRANJEROS,Porcentaje de población extranjera,Percentage of foreign people
+per.estu,MEDIA_SNIVEL_ESTU,Nivel medio de estudios,Average level of studies
+per.estu,PCT_SESTSUP,Porcentaje de personas con estudios superiores,Percentage of people with higher education
+per.estu,PCT_SNACIO,Porcentaje de personas con país de nacimiento extranjero,Percentage of people with a foreign country of birth
+per.estu,PCT_SACTIVOS,Porcentaje de población activa,Percentage of active people
+per.ocu,SPERSONAS,Personas,People
+per.ocu,MEDIA_SEDAD,Edad media,Average age
+per.ocu,PCT_SMENORES_16,Porcentaje de personas de menos de 16 años,Percentage of people under 16 years
+per.ocu,PCT_SPERSONAS_16_64,Porcentaje de personas entre 16 y 64 años,Percentage of people between the ages of 16 and 64
+per.ocu,PCT_SMAYORES_64,Porcentaje de personas de más de 64 años,Percentage of people over 64 years
+per.ocu,PCT_SEXTRANJEROS,Porcentaje de población extranjera,Percentage of foreign people
+per.ocu,MEDIA_SNIVEL_ESTU,Nivel medio de estudios,Average level of studies
+per.ocu,PCT_SESTSUP,Porcentaje de personas con estudios superiores,Percentage of people with higher education
+per.ocu,PCT_SNACIO,Porcentaje de personas con país de nacimiento extranjero,Percentage of people with a foreign country of birth
+per.ocu,PCT_SACTIVOS,Porcentaje de población activa,Percentage of active people
+per.ppal,SPERSONAS,Personas,People
+per.ppal,MEDIA_SEDAD,Edad media,Average age
+per.ppal,PCT_SESTSUP,Porcentaje de personas con estudios superiores,Percentage of people with higher education
+per.ppal,PCT_SMENORES_16,Porcentaje de personas de menos de 16 años,Percentage of people under 16 years
+per.ppal,PCT_SPERSONAS_16_64,Porcentaje de personas entre 16 y 64 años,Percentage of people between the ages of 16 and 64
+per.ppal,PCT_SMAYORES_64,Porcentaje de personas de más de 64 años,Percentage of people over 64 years
+per.ppal,PCT_SEXTRANJEROS,Porcentaje de población extranjera,Percentage of foreign people
+per.ppal,MEDIA_SNIVEL_ESTU,Nivel medio de estudios,Average level of studies
+per.ppal,PCT_SNACIO,Porcentaje de personas con país de nacimiento extranjero,Percentage of people with a foreign country of birth
+per.ppal,PCT_SACTIVOS,Porcentaje de población activa,Percentage of active people
+per.ppal,PCT_SINACTIVOS,Porcentaje de población inactiva,Percentage of inactive people
+per.ppal,PCT_SPARADOS,Porcentaje de población parada,Percentage of unemployed people
+per.ppal,PCT_SOCUPADOS,Porcentaje de población ocupada,Percentage of employed people
+viv.fam,SVIVIENDAS,Número de viviendas,No. of dwellings
+viv.fam,MEDIA_SANTIGUEDAD,Edad media de la vivienda,Average age of the dwelling
+viv.fam,MEDIA_SSUPERFICIE,Superficie media,Average useful floor space
+viv.fam,PCT_SVIVNOPPAL,Porcentaje de viviendas no principales,Percentage of seasonal/empty dwellings
+viv.ppal,SPERSONAS,Personas,People
+viv.ppal,MEDIA_SEDAD,Edad media,Average age
+viv.ppal,PCT_SPERSONAS_16_64,Porcentaje de personas entre 16 y 64 años,Percentage of people between the ages of 16 and 64
+viv.ppal,PCT_SMAYORES_64,Porcentaje de personas de más de 64 años,Percentage of people over 64 years
+viv.ppal,PCT_SEXTRANJEROS,Porcentaje de población extranjera,Percentage of foreign people
+viv.ppal,MEDIA_SNIVEL_ESTU,Nivel medio de estudios,Average level of studies
+viv.ppal,PCT_SESTSUP,Porcentaje de personas con estudios superiores,Percentage of people with higher education
+viv.ppal,PCT_SNACIO,Porcentaje de personas con país de nacimiento extranjero,Percentage of people with a foreign country of birth
+viv.ppal,PCT_SACTIVOS,Porcentaje de población activa,Percentage of active people

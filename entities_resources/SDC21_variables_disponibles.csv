@@ -1,0 +1,396 @@
+table,variable,ES,EN
+hog,ID_ACTI_HOG_1,Número de miembros de 16 a 64 años que están trabajando,Number of employed  members  from 16 to 64 years old
+hog,ID_ACTI_HOG_2,Número de miembros de 16 a 64 años que están parados,Number of unemployed  members  from 16 to 64 years old
+hog,ID_ACTI_HOG_3,Número de miembros de 16 a 64 años que están en situación de inactividad,Number of economically inactive members from 16 to 64 years old 
+hog,ID_ANO_CONS_GR11,Año de construcción (agregado),Year of construction  (aggregated)
+hog,ID_CLASE_VIV_FAM,Clase de vivienda familiar,Class of main family dwelling
+hog,ID_ESTRUC_HOG_2,Estructura del hogar,Household Structure 
+hog,ID_FAM_HOG,Número familias en el hogar,Number of families in the household
+hog,ID_NUC_HOG,Número núcleos en el hogar,Number of family nuclei in the household
+hog,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+hog,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+hog,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+hog,ID_RESIDENCIA_N4,Distrito ,District 
+hog,ID_RESIDENCIA_N5,Sección ,Section
+hog,ID_SUP_OCU_VIV,Superficie por ocupante,Useful floor space per occupant
+hog,ID_SUP_VIV,Superficie ,Useful floor space
+hog,ID_TAM_HOG_6,Tamaño del hogar,Size of the household 
+hog,ID_TAM_MUN_HOG,Tamaño de municipio de residencia,Size of municipality of residence
+hog,ID_TAMEDAD04,Número de miembros de 0 a 4 años,Number of members from 0 to 4 years
+hog,ID_TAMEDAD1624,Número de miembros de 16 a 24 años,Number of members from 16 to 24 years old
+hog,ID_TAMEDAD2534,Número de miembros de 25 a 34 años,Number of members from 25 to 34 years old
+hog,ID_TAMEDAD3564,Número de miembros de 35 a 64 años,Number of members from 35 to 64 years old
+hog,ID_TAMEDAD515, Número de miembros de 5 a 15 años,Number of members from 5 to 15 years old
+hog,ID_TAMEDAD6584,Número de miembros de 65 a 84 años,Number of members from 65 to 84 years old
+hog,ID_TAMEDAD85m,Número de miembros de 85 años o más,Number of members 85 years and above
+hog,ID_TAMSEXNAC11,Hombres españoles que viven en el hogar,Spanish men living in the household
+hog,ID_TAMSEXNAC12,Hombres extranjeros que viven en el hogar,Foreign men living in the household
+hog,ID_TAMSEXNAC13,Mujeres españolas que viven en el hogar,Spanish women living in the household
+hog,ID_TAMSEXNAC14,Mujeres extranjeras que viven en el hogar,Foreign women living in the household
+hog,ID_TENEN_VIV,Régimen de tenencia de la vivienda,Tenure status of dwelling 
+hog,ID_TIPO_EDIF_VIV,Tipo de viviendas según tipo de edificio ,Type of dwellings according to type of building 
+hog,ID_TIPO_HOG_1,Tipo de Hogar (detalle),Type of Household (detail)
+hog,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+nuc,ID_ANO_CONS_GR11,Año de construcción (agregado),Year of construction  (aggregated)
+nuc,ID_CLASE_VIV_FAM,Clase de vivienda familiar,Class of main family dwelling
+nuc,ID_DIF_EDAD_NUC,Diferencia de edad entre los miembros del núcleo,Age difference between family nucleus members
+nuc,ID_ESTRUC_HOG_2,Estructura del hogar,Household Structure 
+nuc,ID_FAM_HOG,Número familias en el hogar,Number of families in the household
+nuc,ID_NHIJOS_COM_NUC,Número de hijos comunes,Number of common children
+nuc,ID_NHIJOS_NUC,Número de hijos,Number of children
+nuc,ID_NUC_HOG,Número núcleos en el hogar,Number of family nuclei in the household
+nuc,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+nuc,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+nuc,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+nuc,ID_RESIDENCIA_N4,Distrito ,District 
+nuc,ID_RESIDENCIA_N5,Sección ,Section
+nuc,ID_SUP_OCU_VIV,Superficie por ocupante,Useful floor space per occupant
+nuc,ID_SUP_VIV,Superficie ,Useful floor space
+nuc,ID_TAM_HOG_6,Tamaño del hogar,Size of the household 
+nuc,ID_TAM_MUN_NUC,Tamaño de municipio de residencia,Size of municipality of residence
+nuc,ID_TAM_NUC_1,Tamaño del núcleo,Family nucleus size
+nuc,ID_TENEN_VIV,Régimen de tenencia de la vivienda,Tenure status of dwelling 
+nuc,ID_TIPO_EDIF_VIV,Tipo de viviendas según tipo de edificio ,Type of dwellings according to type of building 
+nuc,ID_TIPO_HOG_1,Tipo de Hogar (detalle),Type of Household (detail)
+nuc,ID_TIPO_MUN_DEGURBA_NUC,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+nuc,ID_TIPO_NUC_1,Tipo de núcleo,Type of Family Nucleus
+nuc,ID_TIPO_PAR_NUC_1,Tipo de pareja (de hecho o de derecho),Type of couple (de facto or de jure)
+nuc,ID_TIPO_PAR_NUC_2,Tipo de pareja (mismo sexo,distinto sexo),Type of couple (same sex,different sex)
+per.estu,ID_EDAD,Edad año a año,Age year to year
+per.estu,ID_ESCUR,Nivel más alto de la enseñanza principal que cursa,Highest level of the primary studies in course
+per.estu,ID_ESCUR2,Nivel más alto de otras enseñanzas,si cursa más de una,Highest level of other studies,if more than one is being pursued
+per.estu,ID_ESREAL_CNEDA,Nivel de estudios (detalle),Educational attainment (detail)
+per.estu,ID_ESREAL_GR5,Nivel de estudios (grado),Educational attainment (grade)
+per.estu,ID_ESTADO_CIVIL,Estado Civil,Legal Marital Status
+per.estu,ID_GRAN_GRUPO_EDAD,Edad en grandes grupos,Age in large groups
+per.estu,ID_GRUPO_Q_EDAD,Edad (grupos quinquenales),Age (five-year groups)
+per.estu,ID_LUGAR_NAC_EXT_N1,Lugar de nacimiento (España/Extranjero),Place of birth (Spain/abroad)
+per.estu,ID_LUGAR_NAC_EXT_N2,País de nacimiento (grandes grupos),Country of birth (large groups)
+per.estu,ID_LUGAR_NAC_NAC_N1,CC.AA. de nacimiento,Autonomous Community of birth
+per.estu,ID_LUGAR_NAC_NAC_N2,Provincia de nacimiento,Province of birth
+per.estu,ID_LUGAR_NAC_NAC_N3,Municipio de nacimiento,Municipality of birth
+per.estu,ID_NACIONALIDAD_N1,Nacionalidad (española/extranjera),Nationality (Spanish/foreign)
+per.estu,ID_NACIONALIDAD_N2,Nacionalidad (grandes grupos),Nationality (large groups)
+per.estu,ID_PAIS_ANT_GR9,País de residencia anterior (agregado) ,Country of previous residence (aggregated) 
+per.estu,ID_PAIS_DANO_GR10,País residencia en 2011 (agregado),Country of residence in 2011 (aggregated) 
+per.estu,ID_PAIS_PR_GR9,País de procedencia (grandes grupos),Country of origin (large groups)
+per.estu,ID_PAIS_UNANO_GR10,País de residencia en 2020 (agregado),Country of residence in 2020  (aggregated) 
+per.estu,ID_RELA,Relación preferente con la actividad (detalle),Current activity status (detail)
+per.estu,ID_RELA2,Relación preferente con la actividad (activo /inactivo),Current activity status (active/inactive)
+per.estu,ID_RESI_2011_N1,CC.AA. de residencia en 2011,Autonomous Community of residence in 2011
+per.estu,ID_RESI_2011_N2,Provincia de residencia en 2011,Province of residence in 2011
+per.estu,ID_RESI_2011_N3,Municipio de residencia en 2011,Municipality of residence in 2011
+per.estu,ID_RESI_2020_N1,CC.AA. de residencia en 2020,Autonomous Community of residence in 2020
+per.estu,ID_RESI_2020_N2,Provincia de residencia en 2020,Province of residence in 2020
+per.estu,ID_RESI_2020_N3,Municipio de residencia en 2020,Municipality of residence 2020
+per.estu,ID_RESI_ANT,Relación entre residencia anterior y residencia actual ,Relationship between previous residence and current residence 
+per.estu,ID_RESI_DANO,Relación entre residencia en 2011 y actual ,Relationship between residence in 2011 and current residence 
+per.estu,ID_RESI_NACIM,Relación entre lugar de nacimiento y residencia,Relationship between place of birth and residence
+per.estu,ID_RESI_UNANO,Relación entre residencia en 2020 y actual,Relationship between residence in 2020 and current residence 
+per.estu,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+per.estu,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+per.estu,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+per.estu,ID_RESIDENCIA_N4,Distrito ,District 
+per.estu,ID_RESIDENCIA_N5,Sección ,Section
+per.estu,ID_SEXO,Sexo,Sex
+per.estu,ID_TAM_MUN_11,Tamaño de municipio de residencia,Size of municipality of residence
+per.estu,ID_TAM_MUN_12,Tamaño de municipio de nacimiento,Size of municipality of birth
+per.estu,ID_TAM_MUN_ANT_12,Tamaño de municipio de residencia anterior,Size of municipality previous residence
+per.estu,ID_TAMANO_MUN_DANO,Tamaño de municipio de residencia en 2011,Size of municipality of residence in 2011
+per.estu,ID_TAMANO_MUN_UNANO,Tamaño de municipio de residencia en 2020,Size of municipality of residence in 2020
+per.estu,ID_TIPO_COL,Tipo de colectivo (detalle),Class of collective living quarter (detail)
+per.estu,ID_TIPO_COL_AG,Tipo de colectivo (agregado),Class of collective living quarter (aggregated)
+per.estu,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+per.estu,ID_ULT_RESI_ANT_N1,CC.AA. de residencia anterior,Previous Autonomous Community of residence
+per.estu,ID_ULT_RESI_ANT_N2,Provincia de residencia anterior,Previous Province of residence
+per.estu,ID_ULT_RESI_ANT_N3,Municipio de residencia anterior,Previous Municipality of residence
+per.estu,ID_VARANOE,Año de llegada a España,Year of arrival to Spain
+per.ocu,ID_ACT5,Actividad establecimiento (rama),Economic activity  (branch)
+per.ocu,ID_ANO_CONS_GR11,Año de construcción (agregado),Year of construction  (aggregated)
+per.ocu,ID_CLASE_VIV,Clase de vivienda,Class of Dwelling
+per.ocu,ID_EDAD,Edad año a año,Age year to year
+per.ocu,ID_EDAD_CON_GR22,Edad del cónyuge (grupos quinquenales),Age of spouse or partner (five-year groups)
+per.ocu,ID_EDAD_MAD_GR22,Edad del progenitor 1 (grupos quinquenales),Age of parent 1 (five-year groups)
+per.ocu,ID_EDAD_PAD_GR22,Edad del progenitor 2 (grupos quinquenales),Age of parent 2 (five-year groups)
+per.ocu,ID_ESCUR,Nivel más alto de la enseñanza principal que cursa,Highest level of the primary studies in course
+per.ocu,ID_ESCUR2,Nivel más alto de otras enseñanzas,si cursa más de una,Highest level of other studies,if more than one is being pursued
+per.ocu,ID_ESREAL_CNEDA,Nivel de estudios (detalle),Educational attainment (detail)
+per.ocu,ID_ESREAL_CNEDA_CON,Nivel de estudios del cónyuge (detalle),Educational attainment of spouse or partner (detail)
+per.ocu,ID_ESREAL_CNEDA_MAD,Nivel de estudios del progenitor 1 (detalle),Educational attainment of parent 1 (detail)
+per.ocu,ID_ESREAL_CNEDA_PAD,Nivel de estudios del progenitor 2 (detalle),Educational attainment of parent 2 (detail)
+per.ocu,ID_ESREAL_GR5,Nivel de estudios (grado),Educational attainment (grade)
+per.ocu,ID_ESREAL_GR5_CON,Nivel de estudios del cónyuge (grado),Educational attainment of spouse or partner (grade)
+per.ocu,ID_ESREAL_GR5_MAD,Nivel de estudios del progenitor 1 (grado),Educational attainment of parent 1 (grade)
+per.ocu,ID_ESREAL_GR5_PAD,Nivel de estudios del progenitor 2 (grado),Educational attainment of parent 2 (grade)
+per.ocu,ID_ESTADO_CIVIL,Estado Civil,Legal Marital Status
+per.ocu,ID_ESTADO_CIVIL_CON,Estado civil del cónyuge,Legal Marital status spouse or partner
+per.ocu,ID_ESTADO_CIVIL_MAD,Estado civil del progenitor 1,Legal Marital status of parent 1
+per.ocu,ID_ESTADO_CIVIL_PAD,Estado civil del  progenitor 2,Legal Marital status of parent 2
+per.ocu,ID_ESTRUC_HOG_2,Estructura del hogar,Household Structure 
+per.ocu,ID_FAM_HOG,Número familias en el hogar,Number of families in the household
+per.ocu,ID_GRAN_GRUPO_EDAD,Edad en grandes grupos,Age in large groups
+per.ocu,ID_GRUPO_Q_EDAD,Edad (grupos quinquenales),Age (five-year groups)
+per.ocu,ID_I_CON,Vive con cónyuge o pareja,Cohabiting with the spouse or partner
+per.ocu,ID_I_MAD,Vive con progenitor 1,Cohabiting with parent 1
+per.ocu,ID_I_OPA,Vive con otro pariente,Cohabiting with other relative
+per.ocu,ID_I_PAD,Vive con progenitor 2,Cohabiting with parent 2
+per.ocu,ID_L_EST8,Lugar de estudio,Place of study
+per.ocu,ID_L_TRAB7,Lugar de trabajo,Place of work
+per.ocu,ID_LUGAR_EST_N1,CC.AA. de estudio,Autonomous Community of study
+per.ocu,ID_LUGAR_EST_N2,Provincia de estudio,Province of study
+per.ocu,ID_LUGAR_EST_N3,Municipio de estudio,Municipality of study
+per.ocu,ID_LUGAR_NAC_CON_N1,CC.AA. de nacimiento del cónyuge ,Autonomous Community of birth of spouse or partner 
+per.ocu,ID_LUGAR_NAC_CON_N2,Provincia de nacimiento del cónyuge,Province of birth of spouse or partner
+per.ocu,ID_LUGAR_NAC_CON_N3,Municipio de nacimiento del cónyuge,Municipality of birth of spouse or partner
+per.ocu,ID_LUGAR_NAC_EXT_CON_N1,Lugar de nacimiento del cónyuge (agregado),Place of birth of spouse or partner (aggregated)
+per.ocu,ID_LUGAR_NAC_EXT_CON_N2,País de nacimiento del cónyuge (grandes grupos),Country of birth of spouse or partner  (large groups)
+per.ocu,ID_LUGAR_NAC_EXT_CON_N3,País de nacimiento del cónyuge,Country of birth of spouse or partner
+per.ocu,ID_LUGAR_NAC_EXT_MAD_N1,Lugar de nacimiento del progenitor 1 (española/extranjera) ,Place of birth of parent 1 (aggregated)
+per.ocu,ID_LUGAR_NAC_EXT_MAD_N2,País de nacimiento del progenitor 1 (grandes grupos),Country of birth (large groups)
+per.ocu,ID_LUGAR_NAC_EXT_MAD_N3,País de nacimiento del progenitor 1,Country of  birth parent 1
+per.ocu,ID_LUGAR_NAC_EXT_N1,Lugar de nacimiento (España/Extranjero),Place of birth (Spain/abroad)
+per.ocu,ID_LUGAR_NAC_EXT_N2,País de nacimiento (grandes grupos),Country of birth (large groups)
+per.ocu,ID_LUGAR_NAC_EXT_N3,País de nacimiento,Country of birth
+per.ocu,ID_LUGAR_NAC_EXT_PAD_N1,Lugar de nacimiento del progenitor 2 (agregado),Place of birth (aggregate) of parent 2
+per.ocu,ID_LUGAR_NAC_EXT_PAD_N2,País de nacimiento del progenitor 2 (grandes grupos),Country of birth (large groups) of parent 2
+per.ocu,ID_LUGAR_NAC_EXT_PAD_N3,País de nacimiento del progenitor 2,Country of birth parent 2
+per.ocu,ID_LUGAR_NAC_MAD_N1,CC.AA. de nacimiento del progenitor 1 ,Birth Autonomous Community of parent 1 
+per.ocu,ID_LUGAR_NAC_MAD_N2,Provincia de nacimiento del progenitor 1,Birth province of parent 1
+per.ocu,ID_LUGAR_NAC_MAD_N3,Municipio de nacimiento del progenitor 1,Birth municipality of parent 1
+per.ocu,ID_LUGAR_NAC_NAC_N1,CC.AA. de nacimiento,Autonomous Community of birth
+per.ocu,ID_LUGAR_NAC_NAC_N2,Provincia de nacimiento,Province of birth
+per.ocu,ID_LUGAR_NAC_NAC_N3,Municipio de nacimiento,Municipality of birth
+per.ocu,ID_LUGAR_NAC_PAD_N1,CC.AA. de nacimiento del progenitor 2,Birth Autonomous Community of parent 2
+per.ocu,ID_LUGAR_NAC_PAD_N2,Provincia de nacimiento del  progenitor 2,Birth province of parent 2
+per.ocu,ID_LUGAR_NAC_PAD_N3,Municipio de nacimiento del  progenitor 2,Birth municipality of parent 2
+per.ocu,ID_LUGAR_PR_N1,CC.AA. de procedencia,Autonomous Community of origin
+per.ocu,ID_LUGAR_PR_N2,Provincia de procedencia,Province of origin
+per.ocu,ID_LUGAR_PR_N3,Municipio de procedencia,Municipality of origin
+per.ocu,ID_NACIONALIDAD_CON_N1,Nacionalidad del cónyuge (española/extranjera),Nationality of spouse or partner (Spanish/foreign)
+per.ocu,ID_NACIONALIDAD_CON_N2,Nacionalidad del cónyuge (grandes grupos),Nationality of spouse or partner (large groups)
+per.ocu,ID_NACIONALIDAD_CON_N3,País de nacionalidad del cónyuge,Country of nationality spouse or partner
+per.ocu,ID_NACIONALIDAD_MAD_N1,Nacionalidad del progenitor 1 (española/extranjera),Nationality of parent 1 (Spanish/foreign)
+per.ocu,ID_NACIONALIDAD_MAD_N2,Nacionalidad del progenitor 1 (grandes grupos),Nationality of parent 1 (large groups)
+per.ocu,ID_NACIONALIDAD_MAD_N3,País de nacionalidad del progenitor 1,Country of nacionality of parent 1
+per.ocu,ID_NACIONALIDAD_N1,Nacionalidad (española/extranjera),Nationality (Spanish/foreign)
+per.ocu,ID_NACIONALIDAD_N2,Nacionalidad (grandes grupos),Nationality (large groups)
+per.ocu,ID_NACIONALIDAD_N3,País de nacionalidad,Country of nationality
+per.ocu,ID_NACIONALIDAD_PAD_N1,Nacionalidad del progenitor 2 (española/extranjera),Nationality of parent 2 (Spanish/foreign)
+per.ocu,ID_NACIONALIDAD_PAD_N2,Nacionalidad del progenitor 2 (grandes grupos),Nationality of parent 2 (large groups)
+per.ocu,ID_NACIONALIDAD_PAD_N3,País de nacionalidad del progenitor 2,Country of nationality parent 2
+per.ocu,ID_NHIJOS_NUC,Número de hijos,Number of children
+per.ocu,ID_NUC_HOG,Número núcleos en el hogar,Number of family nuclei in the household
+per.ocu,ID_OCU11,Ocupación a 1 dígito CNO-11,1-digit occupation CNO-11
+per.ocu,ID_OCU11_CON,Ocupación del cónyuge a 1 dígito,Occupation of the spouse or partner to 1 digit
+per.ocu,ID_OCU11_MAD,Ocupación del progenitor 1 a 1 dígito,Occupation of parent 1 to 1 digit
+per.ocu,ID_OCU11_PAD,Ocupación del progenitor 2 a 1 dígito,Occupation of parent 2 to 1 digit
+per.ocu,ID_PAIS_ANT,País de residencia anterior,Country of previous residence 
+per.ocu,ID_PAIS_ANT_GR9,País de residencia anterior (agregado) ,Country of previous residence (aggregated) 
+per.ocu,ID_PAIS_DANO,País de residencia en 2011 ,Country of residence in 2011
+per.ocu,ID_PAIS_DANO_GR10,País residencia en 2011 (agregado),Country of residence in 2011 (aggregated) 
+per.ocu,ID_PAIS_PR,País de procedencia,Country of origin
+per.ocu,ID_PAIS_PR_GR9,País de procedencia (grandes grupos),Country of origin (large groups)
+per.ocu,ID_PAIS_UNANO,País de residencia en 2020 ,Country of residence in 2020 
+per.ocu,ID_PAIS_UNANO_GR10,País de residencia en 2020 (agregado),Country of residence in 2020  (aggregated) 
+per.ocu,ID_RELA,Relación preferente con la actividad (detalle),Current activity status (detail)
+per.ocu,ID_RELA_CON,Relación con la actividad del cónyuge (detalle),Activity status (detail) of the spouse or partner
+per.ocu,ID_RELA_MAD,Relación con la actividad del progenitor 1 (detalle),Activity status (detail) parent 1
+per.ocu,ID_RELA_PAD,Relación con la actividad del progenitor 2 (detalle),Activity status (detail) of parent 2
+per.ocu,ID_RELA2,Relación preferente con la actividad (activo /inactivo),Current activity status (active/inactive)
+per.ocu,ID_RESI_2011_N1,CC.AA. de residencia en 2011,Autonomous Community of residence in 2011
+per.ocu,ID_RESI_2011_N2,Provincia de residencia en 2011,Province of residence in 2011
+per.ocu,ID_RESI_2011_N3,Municipio de residencia en 2011,Municipality of residence in 2011
+per.ocu,ID_RESI_2020_N1,CC.AA. de residencia en 2020,Autonomous Community of residence in 2020
+per.ocu,ID_RESI_2020_N2,Provincia de residencia en 2020,Province of residence in 2020
+per.ocu,ID_RESI_2020_N3,Municipio de residencia en 2020,Municipality of residence 2020
+per.ocu,ID_RESI_ANT,Relación entre residencia anterior y residencia actual ,Relationship between previous residence and current residence 
+per.ocu,ID_RESI_DANO,Relación entre residencia en 2011 y actual ,Relationship between residence in 2011 and current residence 
+per.ocu,ID_RESI_NACIM,Relación entre lugar de nacimiento y residencia,Relationship between place of birth and residence
+per.ocu,ID_RESI_NACIM_CON,Relación entre el lugar de nacimiento y el de residencia del cónyuge,Relationship between place of birth and residence of spouse or partner
+per.ocu,ID_RESI_NACIM_MAD,Relación entre el lugar de nacimiento y el de residencia del progenitor 1,Relationship between place of birth and residence parent 1
+per.ocu,ID_RESI_NACIM_PAD,Relación entre el lugar de nacimiento y el de residencia del progenitor 2,Relationship between place of birth and residence parent 2
+per.ocu,ID_RESI_UNANO,Relación entre residencia en 2020 y actual,Relationship between residence in 2020 and current residence 
+per.ocu,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+per.ocu,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+per.ocu,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+per.ocu,ID_RESIDENCIA_N4,Distrito ,District 
+per.ocu,ID_RESIDENCIA_N5,Sección ,Section
+per.ocu,ID_SEXO,Sexo,Sex
+per.ocu,ID_SEXO_CON,Sexo del cónyuge,Sex of spouse or partner 
+per.ocu,ID_SEXO_MAD,Sexo del progenitor 1,Sex of parent 1
+per.ocu,ID_SEXO_PAD,Sexo del  progenitor 2,Sex of parent 2
+per.ocu,ID_SITU,Situación profesional,Status in employment
+per.ocu,ID_SITU_CON,Situación profesional del cónyuge,Status in employment of the spouse or partner
+per.ocu,ID_SITU_MAD,Situación profesional del progenitor 1,Status in employment of parent 1
+per.ocu,ID_SITU_PAD,Situación profesional del progenitor 2,Status in employment of parent 2
+per.ocu,ID_SUP_OCU_VIV,Superficie por ocupante,Useful floor space per occupant
+per.ocu,ID_SUP_VIV,Superficie ,Useful floor space
+per.ocu,ID_TAM_HOG_6,Tamaño del hogar,Size of the household 
+per.ocu,ID_TAM_MUN_11,Tamaño de municipio de residencia,Size of municipality of residence
+per.ocu,ID_TAM_MUN_12,Tamaño de municipio de nacimiento,Size of municipality of birth
+per.ocu,ID_TAM_MUN_ANT_12,Tamaño de municipio de residencia anterior,Size of municipality previous residence
+per.ocu,ID_TAM_NUC_1,Tamaño del núcleo,Family nucleus size
+per.ocu,ID_TAMANO_MUN_DANO,Tamaño de municipio de residencia en 2011,Size of municipality of residence in 2011
+per.ocu,ID_TAMANO_MUN_EST,Tamaño del municipio de estudio,Size of municipality of study
+per.ocu,ID_TAMANO_MUN_NAC_CON_12,Tamaño de municipio de nacimiento del cónyuge,Size of municipality of birth of spouse or partner
+per.ocu,ID_TAMANO_MUN_NAC_MAD_12,Tamaño de municipio de nacimiento del progenitor 1,Size of municipality of birth parent 1
+per.ocu,ID_TAMANO_MUN_NAC_PAD_12,Tamaño de municipio de nacimiento del progenitor 2,Size of municipality of birth parent 2
+per.ocu,ID_TAMANO_MUN_PR,Tamaño de municipio de procedencia,Size of municipality of origin
+per.ocu,ID_TAMANO_MUN_UNANO,Tamaño de municipio de residencia en 2020,Size of municipality of residence in 2020
+per.ocu,ID_TENEN_VIV,Régimen de tenencia de la vivienda,Tenure status of dwelling 
+per.ocu,ID_TESCUR,Tipo de estudios en curso,Field of studies in progress
+per.ocu,ID_TIPO_EDIF_VIV,Tipo de viviendas según tipo de edificio ,Type of dwellings according to type of building 
+per.ocu,ID_TIPO_HOG_1,Tipo de Hogar (detalle),Type of Household (detail)
+per.ocu,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+per.ocu,ID_TIPO_NUC_1,Tipo de núcleo,Type of Family Nucleus
+per.ocu,ID_TIPO_PAR_NUC_1,Tipo de pareja (de hecho o de derecho),Type of couple (de facto or de jure)
+per.ocu,ID_TIPO_PAR_NUC_2,Tipo de pareja (mismo sexo,distinto sexo),Type of couple (same sex,different sex)
+per.ocu,ID_ULT_RESI_ANT_N1,CC.AA. de residencia anterior,Previous Autonomous Community of residence
+per.ocu,ID_ULT_RESI_ANT_N2,Provincia de residencia anterior,Previous Province of residence
+per.ocu,ID_ULT_RESI_ANT_N3,Municipio de residencia anterior,Previous Municipality of residence
+per.ocu,ID_VARANOC,Año de llegada a la CC.AA.,Year of arrival to the Autonomous Community
+per.ocu,ID_VARANOE,Año de llegada a España,Year of arrival to Spain
+per.ocu,ID_VARANOE_CON,Año de llegada a España del cónyuge,Year of arrival to Spain for spouse or partner
+per.ocu,ID_VARANOE_MAD,Año de llegada a España del progenitor 1,Year of arrival to Spain parent 1
+per.ocu,ID_VARANOE_PAD,Año de llegada a España del progenitor 2,Year of arrival to Spain parent 2
+per.ocu,ID_VARANOM,Año de llegada al municipio,Year of arrival in the municipality
+per.ocu,ID_VARANOP,Año de llegada a la provincia ,Year of arrival to the province 
+per.ocu,ID_VARANORES,Año de llegada a la vivienda,Year of arrival to the dwelling
+per.ocu,ID_VAREDAD_CON,Edad del cónyuge (año a año),Age of spouse or partner (year to year)
+per.ocu,ID_VAREDAD_MAD,Edad del progenitor 1 (año a año),Age of parent 1 (year to year)
+per.ocu,ID_VAREDAD_PAD,Edad del progenitor 2 (año a año),Age of parent 2 (year to year)
+per.ppal,ID_CLASE_VIV,Clase de vivienda,Class of Dwelling
+per.ppal,ID_EDAD,Edad año a año,Age year to year
+per.ppal,ID_ESCUR,Nivel más alto de la enseñanza principal que cursa,Highest level of the primary studies in course
+per.ppal,ID_ESCUR2,Nivel más alto de otras enseñanzas,si cursa más de una,Highest level of other studies,if more than one is being pursued
+per.ppal,ID_ESREAL_CNEDA,Nivel de estudios (detalle),Educational attainment (detail)
+per.ppal,ID_ESREAL_GR5,Nivel de estudios (grado),Educational attainment (grade)
+per.ppal,ID_ESTADO_CIVIL,Estado Civil,Legal Marital Status
+per.ppal,ID_GRAN_GRUPO_EDAD,Edad en grandes grupos,Age in large groups
+per.ppal,ID_GRUPO_Q_EDAD,Edad (grupos quinquenales),Age (five-year groups)
+per.ppal,ID_L_EST8,Lugar de estudio,Place of study
+per.ppal,ID_LUGAR_EST_N1,CC.AA. de estudio,Autonomous Community of study
+per.ppal,ID_LUGAR_EST_N2,Provincia de estudio,Province of study
+per.ppal,ID_LUGAR_EST_N3,Municipio de estudio,Municipality of study
+per.ppal,ID_LUGAR_NAC_EXT_N1,Lugar de nacimiento (España/Extranjero),Place of birth (Spain/abroad)
+per.ppal,ID_LUGAR_NAC_EXT_N2,País de nacimiento (grandes grupos),Country of birth (large groups)
+per.ppal,ID_LUGAR_NAC_EXT_N3,País de nacimiento,Country of birth
+per.ppal,ID_LUGAR_NAC_NAC_N1,CC.AA. de nacimiento,Autonomous Community of birth
+per.ppal,ID_LUGAR_NAC_NAC_N2,Provincia de nacimiento,Province of birth
+per.ppal,ID_LUGAR_NAC_NAC_N3,Municipio de nacimiento,Municipality of birth
+per.ppal,ID_LUGAR_PR_N1,CC.AA. de procedencia,Autonomous Community of origin
+per.ppal,ID_LUGAR_PR_N2,Provincia de procedencia,Province of origin
+per.ppal,ID_LUGAR_PR_N3,Municipio de procedencia,Municipality of origin
+per.ppal,ID_NACIONALIDAD_N1,Nacionalidad (española/extranjera),Nationality (Spanish/foreign)
+per.ppal,ID_NACIONALIDAD_N2,Nacionalidad (grandes grupos),Nationality (large groups)
+per.ppal,ID_NACIONALIDAD_N3,País de nacionalidad,Country of nationality
+per.ppal,ID_PAIS_ANT,País de residencia anterior,Country of previous residence 
+per.ppal,ID_PAIS_ANT_GR9,País de residencia anterior (agregado) ,Country of previous residence (aggregated) 
+per.ppal,ID_PAIS_DANO,País de residencia en 2011 ,Country of residence in 2011
+per.ppal,ID_PAIS_DANO_GR10,País residencia en 2011 (agregado),Country of residence in 2011 (aggregated) 
+per.ppal,ID_PAIS_PR,País de procedencia,Country of origin
+per.ppal,ID_PAIS_PR_GR9,País de procedencia (grandes grupos),Country of origin (large groups)
+per.ppal,ID_PAIS_UNANO,País de residencia en 2020 ,Country of residence in 2020 
+per.ppal,ID_PAIS_UNANO_GR10,País de residencia en 2020 (agregado),Country of residence in 2020  (aggregated) 
+per.ppal,ID_RELA,Relación preferente con la actividad (detalle),Current activity status (detail)
+per.ppal,ID_RELA2,Relación preferente con la actividad (activo /inactivo),Current activity status (active/inactive)
+per.ppal,ID_RESI_2011_N1,CC.AA. de residencia en 2011,Autonomous Community of residence in 2011
+per.ppal,ID_RESI_2011_N2,Provincia de residencia en 2011,Province of residence in 2011
+per.ppal,ID_RESI_2011_N3,Municipio de residencia en 2011,Municipality of residence in 2011
+per.ppal,ID_RESI_2020_N1,CC.AA. de residencia en 2020,Autonomous Community of residence in 2020
+per.ppal,ID_RESI_2020_N2,Provincia de residencia en 2020,Province of residence in 2020
+per.ppal,ID_RESI_2020_N3,Municipio de residencia en 2020,Municipality of residence 2020
+per.ppal,ID_RESI_ANT,Relación entre residencia anterior y residencia actual ,Relationship between previous residence and current residence 
+per.ppal,ID_RESI_DANO,Relación entre residencia en 2011 y actual ,Relationship between residence in 2011 and current residence 
+per.ppal,ID_RESI_NACIM,Relación entre lugar de nacimiento y residencia,Relationship between place of birth and residence
+per.ppal,ID_RESI_UNANO,Relación entre residencia en 2020 y actual,Relationship between residence in 2020 and current residence 
+per.ppal,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+per.ppal,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+per.ppal,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+per.ppal,ID_RESIDENCIA_N4,Distrito ,District 
+per.ppal,ID_RESIDENCIA_N5,Sección ,Section
+per.ppal,ID_SEXO,Sexo,Sex
+per.ppal,ID_TAM_MUN_11,Tamaño de municipio de residencia,Size of municipality of residence
+per.ppal,ID_TAM_MUN_12,Tamaño de municipio de nacimiento,Size of municipality of birth
+per.ppal,ID_TAM_MUN_ANT_12,Tamaño de municipio de residencia anterior,Size of municipality previous residence
+per.ppal,ID_TAMANO_MUN_DANO,Tamaño de municipio de residencia en 2011,Size of municipality of residence in 2011
+per.ppal,ID_TAMANO_MUN_EST,Tamaño del municipio de estudio,Size of municipality of study
+per.ppal,ID_TAMANO_MUN_PR,Tamaño de municipio de procedencia,Size of municipality of origin
+per.ppal,ID_TAMANO_MUN_UNANO,Tamaño de municipio de residencia en 2020,Size of municipality of residence in 2020
+per.ppal,ID_TESCUR,Tipo de estudios en curso,Field of studies in progress
+per.ppal,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+per.ppal,ID_ULT_RESI_ANT_N1,CC.AA. de residencia anterior,Previous Autonomous Community of residence
+per.ppal,ID_ULT_RESI_ANT_N2,Provincia de residencia anterior,Previous Province of residence
+per.ppal,ID_ULT_RESI_ANT_N3,Municipio de residencia anterior,Previous Municipality of residence
+per.ppal,ID_VARANOC,Año de llegada a la CC.AA.,Year of arrival to the Autonomous Community
+per.ppal,ID_VARANOE,Año de llegada a España,Year of arrival to Spain
+per.ppal,ID_VARANOM,Año de llegada al municipio,Year of arrival in the municipality
+per.ppal,ID_VARANOP,Año de llegada a la provincia ,Year of arrival to the province 
+per.ppal,ID_VARANORES,Año de llegada a la vivienda,Year of arrival to the dwelling
+viv.fam,ID_ANO_CONS,Año de construcción (todo),Year of construction (detail)
+viv.fam,ID_ANO_CONS_GR11,Año de construcción (agregado),Year of construction  (aggregated)
+viv.fam,ID_CLASE_VIV_FAM,Clase de vivienda familiar,Class of main family dwelling
+viv.fam,ID_NPLANTAS_BAJO_EDIF,Número plantas bajo rasante,Number of floors below ground level
+viv.fam,ID_NPLANTAS_SOBRE_EDIF,Número plantas sobre rasante,Number of floors above ground level
+viv.fam,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+viv.fam,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+viv.fam,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+viv.fam,ID_RESIDENCIA_N4,Distrito ,District 
+viv.fam,ID_RESIDENCIA_N5,Sección ,Section
+viv.fam,ID_SUP_OCU_VIV,Superficie por ocupante,Useful floor space per occupant
+viv.fam,ID_SUP_VIV,Superficie ,Useful floor space
+viv.fam,ID_TAM_HOG_6,Tamaño del hogar,Size of the household 
+viv.fam,ID_TAM_MUN_VIV,Tamaño de municipio de residencia,Size of municipality of residence
+viv.fam,ID_TENEN_VIV,Régimen de tenencia de la vivienda,Tenure status of dwelling 
+viv.fam,ID_TIPO_EDIF_VIV,Tipo de viviendas según tipo de edificio ,Type of dwellings according to type of building 
+viv.fam,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+viv.fam,ID_TIPO_VIV_USO,Tipo de vivienda según uso,Class of family dwelling according to use
+viv.ppal,ID_ACT22,Actividad establecimiento a 1 letra CNAE-09,Economic activity at 1 letter CNAE-09
+viv.ppal,ID_ACT273,Actividad establecimiento a 3 dígitos CNAE-09,Economic activity3-digit CNAE-09
+viv.ppal,ID_ACT5,Actividad establecimiento (rama),Economic activity  (branch)
+viv.ppal,ID_ACT89,Actividad establecimiento a 2 dígitos CNAE-09,Economic activity 2-digit CNAE-09
+viv.ppal,ID_CLASE_VIV,Clase de vivienda,Class of Dwelling
+viv.ppal,ID_EDAD,Edad año a año,Age year to year
+viv.ppal,ID_ESCUR,Nivel más alto de la enseñanza principal que cursa,Highest level of the primary studies in course
+viv.ppal,ID_ESCUR2,Nivel más alto de otras enseñanzas,si cursa más de una,Highest level of other studies,if more than one is being pursued
+viv.ppal,ID_ESREAL_CNEDA,Nivel de estudios (detalle),Educational attainment (detail)
+viv.ppal,ID_ESREAL_GR5,Nivel de estudios (grado),Educational attainment (grade)
+viv.ppal,ID_ESTADO_CIVIL,Estado Civil,Legal Marital Status
+viv.ppal,ID_GRAN_GRUPO_EDAD,Edad en grandes grupos,Age in large groups
+viv.ppal,ID_GRUPO_Q_EDAD,Edad (grupos quinquenales),Age (five-year groups)
+viv.ppal,ID_L_EST8,Lugar de estudio,Place of study
+viv.ppal,ID_L_TRAB7,Lugar de trabajo,Place of work
+viv.ppal,ID_LUGAR_EST_N1,CC.AA. de estudio,Autonomous Community of study
+viv.ppal,ID_LUGAR_EST_N2,Provincia de estudio,Province of study
+viv.ppal,ID_LUGAR_EST_N3,Municipio de estudio,Municipality of study
+viv.ppal,ID_LUGAR_NAC_EXT_N1,Lugar de nacimiento (España/Extranjero),Place of birth (Spain/abroad)
+viv.ppal,ID_LUGAR_NAC_EXT_N2,País de nacimiento (grandes grupos),Country of birth (large groups)
+viv.ppal,ID_LUGAR_NAC_EXT_N3,País de nacimiento,Country of birth
+viv.ppal,ID_LUGAR_NAC_NAC_N1,CC.AA. de nacimiento,Autonomous Community of birth
+viv.ppal,ID_LUGAR_NAC_NAC_N2,Provincia de nacimiento,Province of birth
+viv.ppal,ID_LUGAR_NAC_NAC_N3,Municipio de nacimiento,Municipality of birth
+viv.ppal,ID_LUGAR_TRAB_N1,CC.AA. de trabajo,Autonomous Community of work
+viv.ppal,ID_LUGAR_TRAB_N2,Provincia de trabajo,Province of work
+viv.ppal,ID_LUGAR_TRAB_N3,Municipio de trabajo,Municipality of work
+viv.ppal,ID_NACIONALIDAD_N1,Nacionalidad (española/extranjera),Nationality (Spanish/foreign)
+viv.ppal,ID_NACIONALIDAD_N2,Nacionalidad (grandes grupos),Nationality (large groups)
+viv.ppal,ID_NACIONALIDAD_N3,País de nacionalidad,Country of nationality
+viv.ppal,ID_OCU11,Ocupación a 1 dígito CNO-11,1-digit occupation CNO-11
+viv.ppal,ID_OCU171,Ocupación a 3 dígitos CNO-11,3-digit occupation CNO-11
+viv.ppal,ID_OCU63,Ocupación a 2 dígitos CNO-11,2-digit occupation CNO-11
+viv.ppal,ID_PAIS_PR_GR9,País de procedencia (grandes grupos),Country of origin (large groups)
+viv.ppal,ID_RESI_NACIM,Relación entre lugar de nacimiento y residencia,Relationship between place of birth and residence
+viv.ppal,ID_RESIDENCIA_N1,CC.AA. de residencia,Autonomous Community
+viv.ppal,ID_RESIDENCIA_N2,Provincia de residencia,Province of residence
+viv.ppal,ID_RESIDENCIA_N3,Municipio de residencia,Municipality of residence
+viv.ppal,ID_RESIDENCIA_N4,Distrito ,District 
+viv.ppal,ID_RESIDENCIA_N5,Sección ,Section
+viv.ppal,ID_SEXO,Sexo,Sex
+viv.ppal,ID_SITU,Situación profesional,Status in employment
+viv.ppal,ID_TAM_MUN_11,Tamaño de municipio de residencia,Size of municipality of residence
+viv.ppal,ID_TAM_MUN_12,Tamaño de municipio de nacimiento,Size of municipality of birth
+viv.ppal,ID_TAMANO_MUN_EST,Tamaño del municipio de estudio,Size of municipality of study
+viv.ppal,ID_TAMANO_MUN_TRAB,Tamaño del municipio de trabajo,Size of municipality of work
+viv.ppal,ID_TESCUR,Tipo de estudios en curso,Field of studies in progress
+viv.ppal,ID_TIPO_MUN_DEGURBA,Tipo de municipio según grado de urbanización,Type of municipality according to degree of urbanization
+viv.ppal,ID_VARANOE,Año de llegada a España,Year of arrival to Spain
