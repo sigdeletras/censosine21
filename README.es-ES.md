@@ -96,13 +96,7 @@ Puedes obtener más información sobre cómo funciona la API del INE en la [pág
 
 ## Licencia
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 La librería *censosine21* está desarrollada por [Patricio Soriano](https://www.linkedin.com/in/patriciosorianocastro/) [@sigdeletras](https://twitter.com/sigdeletras) bajo licencia
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[MIT License.](LICENSE.md)
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
