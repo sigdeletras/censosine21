@@ -2,7 +2,7 @@
 
 Librería Python para interactuar con la API del Instituto Nacional de Estadística ([INE](https://www.ine.es/)) que ofrece datos del [Sistema de Difusión de los Censos de Población y Viviendas 2021 (SDC21)](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981#:~:text=%C3%9Altima%20Nota%20de%20prensa&text=En%20Espa%C3%B1a%20hab%C3%ADa%2018.539.223,2.514.511%20de%20uso%20espor%C3%A1dico.).
 
-Read this in [English](https://github.com/sigdeletras/censosine21/README.md).
+Read this in [English](https://github.com/sigdeletras/censosine21/blob/master/README.md).
 
 ## Instalación
 
