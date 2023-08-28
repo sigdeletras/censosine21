@@ -88,7 +88,7 @@ CensosINE21.show_variables('nuc')
 
 Obtenga el código fuente en el [repositorio de github](https://github.com/sigdeletras/censosine21).
 
-Hay más ejemplos en el directorio [/examples](https://github.com/sigdeletras/censosine21/examples).
+Hay más ejemplos en el directorio [/examples](https://github.com/sigdeletras/censosine21/tree/master/examples).
 
 ## Enlace oficial
 
