@@ -49,6 +49,9 @@ mi_libreria/
 
 Recurso para usar Github actions [https://medium.com/@VersuS_/automate-pypi-releases-with-github-actions-4c5a9cfe947d](https://medium.com/@VersuS_/automate-pypi-releases-with-github-actions-4c5a9cfe947d)
 
+https://www.youtube.com/watch?v=3i797U2C-Bk
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
 ## Versionado
 [] Utilizar un sistema de control de versiones (Git) y seguir las convenciones de versionado semántico para gestionar las versiones de la librería.
 
