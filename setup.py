@@ -4,7 +4,7 @@ from setuptools import setup
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '0.0.1'
+
 DESCRIPTION = 'Python library to interact with the API of the National Institute of Statistics (INE ) of Spain that ' \
               'offers the data Dissemination System of the Population and Housing Censuses 2021 (SDC21). '
 PACKAGE_NAME = 'censosine21'
@@ -15,7 +15,7 @@ GITHUB_URL = 'https://github.com/sigdeletras/censosine21'
 setup(
     name = PACKAGE_NAME,
     packages = [PACKAGE_NAME],
-    version = VERSION,
+   version='{{VERSION_PLACEHOLDER}}',
     license='MIT License',
     description = DESCRIPTION,
     long_description_content_type="text/markdown",
@@ -24,9 +24,7 @@ setup(
     author_email = EMAIL,
     url = GITHUB_URL,
     keywords = [],
-    install_requires=[
-        'requests>=2.31.0'
-    ],
+    install_requires=['requests'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',

@@ -47,6 +47,8 @@ mi_libreria/
 ## Distribución
 [] Publicar la librería en el Python Package Index (PyPI).
 
+Recurso para usar Github actions [https://medium.com/@VersuS_/automate-pypi-releases-with-github-actions-4c5a9cfe947d](https://medium.com/@VersuS_/automate-pypi-releases-with-github-actions-4c5a9cfe947d)
+
 ## Versionado
 [] Utilizar un sistema de control de versiones (Git) y seguir las convenciones de versionado semántico para gestionar las versiones de la librería.
 
