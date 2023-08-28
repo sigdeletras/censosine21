@@ -1,32 +1,32 @@
 ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
-02 Albacete,121932,En propiedad
+02 Albacete,121935,En propiedad
 02 Albacete,16176,En alquiler
-02 Albacete,13122,Otro régimen de tenencia
-02 Albacete,27,No consta
+02 Albacete,13125,Otro régimen de tenencia
+02 Albacete,30,No consta
 03 Alicante/Alacant,581226,En propiedad
 03 Alicante/Alacant,114747,En alquiler
 03 Alicante/Alacant,58125,Otro régimen de tenencia
 04 Almería,200001,En propiedad
-04 Almería,42654,En alquiler
-04 Almería,32289,Otro régimen de tenencia
+04 Almería,42651,En alquiler
+04 Almería,32292,Otro régimen de tenencia
 04 Almería,783,No consta
-01 Araba/Álava,116871,En propiedad
-01 Araba/Álava,19983,En alquiler
+01 Araba/Álava,116874,En propiedad
+01 Araba/Álava,19986,En alquiler
 01 Araba/Álava,3360,Otro régimen de tenencia
 33 Asturias,339885,En propiedad
 33 Asturias,58185,En alquiler
-33 Asturias,48498,Otro régimen de tenencia
+33 Asturias,48501,Otro régimen de tenencia
 05 Ávila,54810,En propiedad
 05 Ávila,7197,En alquiler
-05 Ávila,7761,Otro régimen de tenencia
-06 Badajoz,210426,En propiedad
+05 Ávila,7758,Otro régimen de tenencia
+06 Badajoz,210423,En propiedad
 06 Badajoz,21234,En alquiler
 06 Badajoz,34500,Otro régimen de tenencia
-"07 Balears, Illes",292572,En propiedad
-"07 Balears, Illes",103527,En alquiler
-"07 Balears, Illes",45441,Otro régimen de tenencia
+"07 Balears, Illes",292569,En propiedad
+"07 Balears, Illes",103524,En alquiler
+"07 Balears, Illes",45438,Otro régimen de tenencia
 08 Barcelona,1509645,En propiedad
-08 Barcelona,522540,En alquiler
+08 Barcelona,522537,En alquiler
 08 Barcelona,165642,Otro régimen de tenencia
 48 Bizkaia,407409,En propiedad
 48 Bizkaia,58962,En alquiler
@@ -34,12 +34,12 @@ ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
 09 Burgos,123381,En propiedad
 09 Burgos,17661,En alquiler
 09 Burgos,11256,Otro régimen de tenencia
-09 Burgos,33,No consta
-10 Cáceres,131907,En propiedad
-10 Cáceres,18324,En alquiler
+09 Burgos,30,No consta
+10 Cáceres,131910,En propiedad
+10 Cáceres,18327,En alquiler
 10 Cáceres,17973,Otro régimen de tenencia
 11 Cádiz,375300,En propiedad
-11 Cádiz,51951,En alquiler
+11 Cádiz,51954,En alquiler
 11 Cádiz,41226,Otro régimen de tenencia
 39 Cantabria,185094,En propiedad
 39 Cantabria,27564,En alquiler
@@ -49,47 +49,47 @@ ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
 12 Castellón/Castelló,21957,Otro régimen de tenencia
 13 Ciudad Real,158427,En propiedad
 13 Ciudad Real,17643,En alquiler
-13 Ciudad Real,17814,Otro régimen de tenencia
+13 Ciudad Real,17811,Otro régimen de tenencia
 14 Córdoba,241518,En propiedad
 14 Córdoba,25941,En alquiler
 14 Córdoba,31887,Otro régimen de tenencia
 14 Córdoba,63,No consta
 "15 Coruña, A",333837,En propiedad
 "15 Coruña, A",63018,En alquiler
-"15 Coruña, A",56496,Otro régimen de tenencia
+"15 Coruña, A",56493,Otro régimen de tenencia
 "15 Coruña, A",51,No consta
 16 Cuenca,62742,En propiedad
 16 Cuenca,8937,En alquiler
-16 Cuenca,9228,Otro régimen de tenencia
-20 Gipuzkoa,246015,En propiedad
-20 Gipuzkoa,43788,En alquiler
+16 Cuenca,9225,Otro régimen de tenencia
+20 Gipuzkoa,246012,En propiedad
+20 Gipuzkoa,43791,En alquiler
 20 Gipuzkoa,8607,Otro régimen de tenencia
-20 Gipuzkoa,3,No consta
-17 Girona,200313,En propiedad
+20 Gipuzkoa,0,No consta
+17 Girona,200316,En propiedad
 17 Girona,71841,En alquiler
 17 Girona,26769,Otro régimen de tenencia
 17 Girona,0,No consta
 18 Granada,282615,En propiedad
-18 Granada,46983,En alquiler
-18 Granada,38388,Otro régimen de tenencia
-18 Granada,27,No consta
+18 Granada,46986,En alquiler
+18 Granada,38385,Otro régimen de tenencia
+18 Granada,24,No consta
 19 Guadalajara,77946,En propiedad
-19 Guadalajara,18879,En alquiler
+19 Guadalajara,18882,En alquiler
 19 Guadalajara,7485,Otro régimen de tenencia
-21 Huelva,156534,En propiedad
-21 Huelva,24786,En alquiler
-21 Huelva,19170,Otro régimen de tenencia
+21 Huelva,156537,En propiedad
+21 Huelva,24789,En alquiler
+21 Huelva,19173,Otro régimen de tenencia
 21 Huelva,873,No consta
-22 Huesca,67569,En propiedad
+22 Huesca,67566,En propiedad
 22 Huesca,13590,En alquiler
 22 Huesca,9084,Otro régimen de tenencia
 22 Huesca,9,No consta
-23 Jaén,210495,En propiedad
-23 Jaén,14154,En alquiler
+23 Jaén,210498,En propiedad
+23 Jaén,14151,En alquiler
 23 Jaén,21519,Otro régimen de tenencia
 24 León,152346,En propiedad
 24 León,26469,En alquiler
-24 León,19734,Otro régimen de tenencia
+24 León,19737,Otro régimen de tenencia
 24 León,24,No consta
 25 Lleida,117840,En propiedad
 25 Lleida,36510,En alquiler
@@ -99,23 +99,23 @@ ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
 27 Lugo,17496,Otro régimen de tenencia
 28 Madrid,1885554,En propiedad
 28 Madrid,525834,En alquiler
-28 Madrid,135102,Otro régimen de tenencia
+28 Madrid,135099,Otro régimen de tenencia
 28 Madrid,354,No consta
 29 Málaga,516543,En propiedad
-29 Málaga,86484,En alquiler
+29 Málaga,86487,En alquiler
 29 Málaga,57306,Otro régimen de tenencia
 29 Málaga,9,No consta
 30 Murcia,414795,En propiedad
 30 Murcia,84576,En alquiler
-30 Murcia,41127,Otro régimen de tenencia
+30 Murcia,41124,Otro régimen de tenencia
 30 Murcia,165,No consta
 31 Navarra,205146,En propiedad
 31 Navarra,33777,En alquiler
 31 Navarra,17406,Otro régimen de tenencia
 32 Ourense,100692,En propiedad
-32 Ourense,15219,En alquiler
-32 Ourense,17721,Otro régimen de tenencia
-34 Palencia,55731,En propiedad
+32 Ourense,15222,En alquiler
+32 Ourense,17718,Otro régimen de tenencia
+34 Palencia,55734,En propiedad
 34 Palencia,6567,En alquiler
 34 Palencia,6054,Otro régimen de tenencia
 "35 Palmas, Las",272784,En propiedad
@@ -126,13 +126,13 @@ ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
 36 Pontevedra,42000,En alquiler
 36 Pontevedra,52842,Otro régimen de tenencia
 "26 Rioja, La",106950,En propiedad
-"26 Rioja, La",14964,En alquiler
+"26 Rioja, La",14961,En alquiler
 "26 Rioja, La",10329,Otro régimen de tenencia
 37 Salamanca,117135,En propiedad
-37 Salamanca,15591,En alquiler
+37 Salamanca,15588,En alquiler
 37 Salamanca,10509,Otro régimen de tenencia
 38 Santa Cruz de Tenerife,258696,En propiedad
-38 Santa Cruz de Tenerife,88137,En alquiler
+38 Santa Cruz de Tenerife,88140,En alquiler
 38 Santa Cruz de Tenerife,50592,Otro régimen de tenencia
 38 Santa Cruz de Tenerife,6,No consta
 40 Segovia,47799,En propiedad
@@ -140,37 +140,37 @@ ID_RESIDENCIA_N2,SHOGARES,ID_TENEN_VIV
 40 Segovia,6729,Otro régimen de tenencia
 41 Sevilla,585489,En propiedad
 41 Sevilla,75321,En alquiler
-41 Sevilla,62568,Otro régimen de tenencia
+41 Sevilla,62571,Otro régimen de tenencia
 41 Sevilla,114,No consta
 42 Soria,30210,En propiedad
-42 Soria,4641,En alquiler
+42 Soria,4644,En alquiler
 42 Soria,3117,Otro régimen de tenencia
 43 Tarragona,238791,En propiedad
-43 Tarragona,61395,En alquiler
+43 Tarragona,61398,En alquiler
 43 Tarragona,22656,Otro régimen de tenencia
-44 Teruel,41994,En propiedad
-44 Teruel,5526,En alquiler
+44 Teruel,41991,En propiedad
+44 Teruel,5529,En alquiler
 44 Teruel,7107,Otro régimen de tenencia
 45 Toledo,211059,En propiedad
-45 Toledo,31296,En alquiler
-45 Toledo,27009,Otro régimen de tenencia
+45 Toledo,31299,En alquiler
+45 Toledo,27006,Otro régimen de tenencia
 46 Valencia/València,806427,En propiedad
 46 Valencia/València,142212,En alquiler
 46 Valencia/València,81432,Otro régimen de tenencia
 47 Valladolid,168870,En propiedad
 47 Valladolid,29088,En alquiler
-47 Valladolid,18159,Otro régimen de tenencia
+47 Valladolid,18162,Otro régimen de tenencia
 49 Zamora,62967,En propiedad
-49 Zamora,5577,En alquiler
+49 Zamora,5574,En alquiler
 49 Zamora,7488,Otro régimen de tenencia
-49 Zamora,0,No consta
+49 Zamora,3,No consta
 50 Zaragoza,303453,En propiedad
 50 Zaragoza,65508,En alquiler
-50 Zaragoza,26397,Otro régimen de tenencia
+50 Zaragoza,26400,Otro régimen de tenencia
 51 Ceuta,18138,En propiedad
-51 Ceuta,4527,En alquiler
-51 Ceuta,2715,Otro régimen de tenencia
+51 Ceuta,4524,En alquiler
+51 Ceuta,2718,Otro régimen de tenencia
 52 Melilla,15843,En propiedad
-52 Melilla,8064,En alquiler
+52 Melilla,8067,En alquiler
 52 Melilla,1626,Otro régimen de tenencia
-52 Melilla,45,No consta
+52 Melilla,42,No consta
