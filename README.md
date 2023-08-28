@@ -2,7 +2,7 @@
 
 Python library to interact with the API of the National Institute of Statistics ([INE](https://www.ine.es/en/index.htm) ) of Spain that offers the data [Dissemination System of the Population and Housing Censuses 2021 (SDC21)](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981#:~:text=%C3%9Altima%20Nota%20de%20prensa&text=En%20Espa%C3%B1a%20hab%C3%ADa%2018.539.223,2.514.511%20de%20uso%20espor%C3%A1dico.)
 
-Leer esto en [español](https://github.com/sigdeletras/censosine21/README.es-ES.md).
+Leer esto en [español]([https://github.com/sigdeletras/censosine21/README.es-ES.md](https://github.com/sigdeletras/censosine21/blob/master/README.es-ES.md)).
 
 ## Installation
 
