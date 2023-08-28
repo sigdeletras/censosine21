@@ -1,6 +1,6 @@
 import requests
 import csv
-from .entities import TABLES, LANGUAGES, METRICS, VARIABLES
+from .entities.entities import TABLES, LANGUAGES, METRICS, VARIABLES
 
 from dataclasses import dataclass
 
