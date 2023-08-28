@@ -90,7 +90,7 @@ CensosINE21.show_variables('nuc')
 
 Get the source code from the [github repository](https://github.com/sigdeletras/censosine21).
 
-There are more examples in the [/examples](https://github.com/sigdeletras/censosine21/examples) directory.
+There are more examples in the [/examples](https://github.com/sigdeletras/censosine21/tree/master/examples) directory.
 ## Links
 
 
