@@ -4,7 +4,7 @@ from setuptools import setup
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '1.0.0'
+VERSION = '0.1.0'
 DESCRIPTION = 'Python library to interact with the API of the National Institute of Statistics (INE ) of Spain that ' \
               'offers the data Dissemination System of the Population and Housing Censuses 2021 (SDC21). '
 PACKAGE_NAME = 'censosine21'
