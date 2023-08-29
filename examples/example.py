@@ -61,7 +61,7 @@ print(hogares.data)
 # Si lo deseamos podemos convertir los resultados del atributo data a un archivo CSV.
 # Esto se realiza con el método to_csv() indicando la ruta y nombre del csv añadiendo la extensión.
 
-hogares.to_csv('examples/csv/nhorares_regimen_provincias.csv')
+hogares.to_csv('nhorares_regimen_provincias.csv')
 
 # Para terminar, con el método filter() podemos ver los datos del atributo data filtrando por una de las variables
 # En el ejemplo, limitamos los datos a la provicia de Asturias
@@ -69,5 +69,5 @@ hogares_filter_asturias = hogares.filter('ID_RESIDENCIA_N2', 'asturias')
 print(hogares_filter_asturias)
 
 ## y crear igualmente un csv con los datos filtrados.
-hogares.to_csv('examples/csv/nhorares_regimen_asturias.csv','ID_RESIDENCIA_N2', '33 Asturias')
+hogares.to_csv('nhorares_regimen_asturias.csv','ID_RESIDENCIA_N2', '33 Asturias')
 
