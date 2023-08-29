@@ -14,7 +14,7 @@ GITHUB_URL = 'https://github.com/sigdeletras/censosine21'
 
 setup(
     name = PACKAGE_NAME,
-    packages = [PACKAGE_NAME],
+    packages = ['censosine21','censosine21.entities'],
     version = VERSION,
     license='MIT',
     description = DESCRIPTION,
